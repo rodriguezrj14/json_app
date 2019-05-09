@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">json</string>
+    <string name="ProductName">Product Name</string>
+    <string name="price">Price</string>
+    <string name="uom">Uom</string>
+    <string name="Product">Product</string>
+</resources>

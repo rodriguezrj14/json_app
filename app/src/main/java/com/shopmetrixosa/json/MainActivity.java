@@ -57,6 +57,8 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerView = findViewById(R.id.recyclerView);
         fabAdd = findViewById(R.id.fabAdd);
+
+        fabAdd = null;
         
         
         mAdapter = new ProductAdapter(productList);
